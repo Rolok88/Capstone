@@ -1,0 +1,32 @@
+Name,Type,Difficulty,Weight,Dual Wield,Dice Type,Dice Count
+Club,Melee,Simple,Light,Yes,4,1
+Dagger,Melee,Simple,Light,Yes,4,1
+Greatclub,Melee,Simple,Normal,No,8,1
+Quarterstaff 1h,Melee,Simple,Normal,No,6,1
+Quarterstaff 2h,Melee,Simple,Normal,No,8,1
+Sickle,Melee,Simple,Light,Yes,4,1
+Battleaxe 1h,Melee,Martial,Normal,No,8,1
+Battleaxe 2h,Melee,Martial,Normal,No,10,1
+Flail,Melee,Martial,Normal,No,8,1
+Glaive,Melee,Martial,Heavy,No,10,1
+Greataxe,Melee,Martial,Heavy,No,12,1
+Greatsword,Melee,Martial,Heavy,No,6,2
+Halberd,Melee,Martial,Heavy,No,10,1
+Lance,Melee,Martial,Normal,No,12,1
+Longsword 1h,Melee,Martial,Normal,No,8,1
+Longsword 2h,Melee,Martial,Normal,No,10,1
+Maul,Melee,Martial,Heavy,No,6,2
+Morningstar,Melee,Martial,Normal,No,8,1
+Pike,Melee,Martial,Heavy,No,10,1
+Rapier,Melee,Martial,Normal,No,8,1
+Scimitar,Melee,Martial,Light,Yes,6,1
+Shortsword,Melee,Martial,Light,Yes,6,1
+War Pick,Melee,Martial,Normal,No,8,1
+Warhammer 1h,Melee,Martial,Normal,No,8,1
+Warhammer 2h,Melee,Martial,Normal,No,10,1
+Whip,Melee,Martial,Normal,No,4,1
+Light Crossbow,Ranged,Simple,Normal,No,8,1
+Shortbow,Ranged,Simple,Normal,No,6,1
+Hand Crossbow,Ranged,Martial,Light,Yes,6,1
+Heavy Crosboww,Ranged,Martial,Normal,No,10,1
+Longbow,Ranged,Martial,Normal,No,8,1
